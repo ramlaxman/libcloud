@@ -7,8 +7,8 @@ Apache Libcloud - a unified interface for the cloud
 .. image:: https://img.shields.io/pypi/v/apache-libcloud.svg
     :target: https://pypi.python.org/pypi/apache-libcloud/
 
-.. image:: https://img.shields.io/pypi/dm/apache-libcloud.svg
-        :target: https://pypi.python.org/pypi/apache-libcloud/
+.. image:: https://img.shields.io/badge/Downloads-Active-brightgreen.svg
+        :target: http://libcloud.apache.org/downloads.html
 
 .. image:: https://img.shields.io/travis/apache/libcloud/trunk.svg
         :target: http://travis-ci.org/apache/libcloud
